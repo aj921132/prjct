@@ -1,0 +1,34 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "kfc",
+      "address": "noida",
+      "email": "kfc@con"
+    },
+    {
+      "id": 2,
+      "name": "om",
+      "address": "delhi",
+      "email": "om@con"
+    },
+    {
+      "id": 3,
+      "name": "pizam",
+      "address": "andhervdelhi",
+      "email": "and@con"
+    },
+    {
+      "name": "hire",
+      "address": "raj nadelhi hi",
+      "email": "hireacd@con",
+      "id": 4
+    },
+    {
+      "name": "haldi",
+      "address": "rkgraj nadelhi hi",
+      "email": "haldhireacd@con",
+      "id": 5
+    }
+  ]
+}
